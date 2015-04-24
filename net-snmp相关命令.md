@@ -19,7 +19,16 @@ snmpwalk –v 3  –u 用户名 –l  安全级别 设备ip
 
 snmpwalk -v 3 -u admin -l noAuthNoPriv 192.168.1.8
 
-2. 
+2. 只认证不加密
+
+snmpwalk –v 3  –u 用户名 –l  安全级别 –a 认证协议 –A 认证密码 设备ip
+
+例如：
+
+snmpwalk -v 3 -u admin -l authNoPriv -a MD5 -A 123@abc 192.168.1.8
+
+3. 
+
 
 
 
