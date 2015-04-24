@@ -27,7 +27,14 @@ snmpwalk –v 3  –u 用户名 –l  安全级别 –a 认证协议 –A 认证
 
 snmpwalk -v 3 -u admin -l authNoPriv -a MD5 -A 123@abc 192.168.1.8
 
-*
+* 既认证又加密
+
+snmpwalk –v 3  –u 用户名 –l  安全级别 –a 认证协议 –A 认证密码 –x 加密协议 –X 加密密码 设备ip 
+
+例如：
+
+snmpwalk -v 3 -u admin -l authNoPriv -a MD5 -A 123@abc -x DES -X 123@abc 192.168.1.8
+
 
 
 
