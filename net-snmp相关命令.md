@@ -37,6 +37,11 @@ snmpwalk -v 3 -u admin -l authNoPriv -a MD5 -A 123@abc -x DES -X 123@abc 192.168
 
 >一些常用参数
 
+-r RETRIES            set the number of retries
+-t TIMEOUT            set the request timeout (in seconds)
+ 
+当网络不太稳定时，加上重试和超时 
+
 
 
 
