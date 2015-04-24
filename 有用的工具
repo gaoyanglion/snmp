@@ -4,6 +4,6 @@
 
 [foo]: http://www.ireasoning.com/mibbrowser.shtml  "下载地址"
 
-This is [an example](http://www.ireasoning.com/mibbrowser.shtml "下载地址") inline link.
+[an example](http://www.ireasoning.com/mibbrowser.shtml "下载地址") 
 
 
