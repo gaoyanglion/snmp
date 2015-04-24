@@ -1,5 +1,5 @@
 # snmpwalk
-获取v1、v2版本数据
+>获取v1、v2版本数据
 
 snmpwalk -v 版本 -c 团体名 设备ip
 
