@@ -35,7 +35,7 @@ snmpwalk –v 3  –u 用户名 –l  安全级别 –a 认证协议 –A 认证
 
 snmpwalk -v 3 -u admin -l authNoPriv -a MD5 -A 123@abc -x DES -X 123@abc 192.168.1.8
 
-* 一些常用参数
+>一些常用参数
 
 
 
