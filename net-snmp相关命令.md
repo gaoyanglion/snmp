@@ -9,6 +9,8 @@ snmpwalk -v 1 -c public 192.168.1.8
 
 snmpwalk -v 2c -c public 192.168.1.8
 
+>获取v3版本数据
+
 
 
 
