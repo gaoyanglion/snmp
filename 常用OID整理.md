@@ -1,36 +1,70 @@
 1.3.6.1.2.1.1.2 sysObjectID 设备systemoid
+
 1.3.6.1.2.1.1.3 sysUpTime 设备运行时间
+
 1.3.6.1.2.1.1.4 sysContact 设备联系方式
+
 1.3.6.1.2.1.1.5 sysName 设备名称
+
 1.3.6.1.2.1.1.6 sysLocation 设备位置
+
 1.3.6.1.2.1.1.7 sysServices 设备服务
+
 1.3.6.1.2.1.2.2.1.10 ifInOctets 接口接收字节数
+
 1.3.6.1.2.1.2.2.1.16 ifOutOctets 接口发送字节数
+
 1.3.6.1.2.1.2.2.1.1 ifindex 接口索引
+
 1.3.6.1.2.1.2.2.1.5 ifspeed 接口带宽
+
 1.3.6.1.2.1.2.2.1.2 ifname 接口名称
+
 1.3.6.1.2.1.2.2.1.7 ifadminstatus 接口管理状态
+
 1.3.6.1.2.1.2.2.1.8 ifopeartestatus 接口操作状态
+
 1.3.6.1.2.1.2.2.1.13 ifInDiscards 接口接收丢包数
+
 1.3.6.1.2.1.2.2.1.19 ifOutDiscards 接收发送丢包数
+
 1.3.6.1.2.1.31.1.1.1.18 ifdescription(ifAlias) 接口描述
+
 1.3.6.1.2.1.31.1.1.1.6 ifHCInOctets 接口接收字节数
+
 1.3.6.1.2.1.31.1.1.1.10 ifHCOutOctets 接口发送字节数
+
 1.3.6.1.2.1.31.1.1.1.7 ifHCInUcastPkts 接口接收单播包数
+
 1.3.6.1.2.1.31.1.1.1.11 ifHCOutUcastPkts 接口发送单播包数
+
 1.3.6.1.2.1.31.1.1.1.8 ifHCInMulticastPkts 接口接收组播包数
+
 1.3.6.1.2.1.31.1.1.1.12 ifHCOutMulticastPkts 接口发送组播包数
+
 1.3.6.1.2.1.31.1.1.1.9 ifHCInBroadcastPkts 接口接收广播包数
+
 1.3.6.1.2.1.31.1.1.1.13 ifHCOutBroadcastPkts 接口发送广播包数
+
 1.3.6.1.2.1.31.1.1 ifXTable 接口表
+
 1.3.6.1.2.1.2.2 ifTable 接口表
+
 1.3.6.1.2.1.2.2.1.20 ifOutErrors 接口发送错包数
+
 1.3.6.1.2.1.2.2.1.14 ifInErrors 接口接收错包数
+
 1.3.6.1.2.1.2.2.1.13 ifInDiscards 接口接收丢包数
+
 1.3.6.1.2.1.2.2.1.19 ifOutDiscards 接口发送丢包数
+
 1.3.6.1.2.1.6.9 tcpCurrEstab TCP端口连接数
+
 1.3.6.1.2.1.2.2.1.11 ifInUcastPkts 接口接收单播包数
+
 1.3.6.1.2.1.2.2.1.17 ifOutUcastPkts 接口发送单播包数
+
 1.3.6.1.2.1.31.1.1.1.3 ifInBroadcastPkts 接口接收广播包数
+
 1.3.6.1.2.1.31.1.1.1.5 ifOutBroadcastPkts 接口发送广播包数
 
