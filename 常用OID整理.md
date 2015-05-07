@@ -78,7 +78,7 @@
 
 1.3.6.1.2.1.17.4.3.1.3 FdbStatus
 
-#tcpConnTable（可得到类似netstat命令结果）
+#tcpConnTable（可得到类似“netstat -an -p tcp”命令结果）
 
 1.3.6.1.2.1.6.13.1.1 连接状态（侦听，关闭等）
 
@@ -90,7 +90,7 @@
 
 1.3.6.1.2.1.6.13.1.5 远程端口
 
-#udpEntry
+#udpEntry（（可得到类似“netstat -an -p udp”命令结果））
 
 1.3.6.1.2.1.7.5.1.1 本地地址
 
