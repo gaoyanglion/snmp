@@ -1,3 +1,5 @@
+#common
+
 1.3.6.1.2.1.1.2 sysObjectID 设备systemoid
 
 1.3.6.1.2.1.1.3 sysUpTime 设备运行时间
