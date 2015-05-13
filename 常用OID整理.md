@@ -30,7 +30,7 @@
 
 1.3.6.1.2.1.2.2.1.13 ifInDiscards 接口接收丢包数
 
-1.3.6.1.2.1.2.2.1.19 ifOutDiscards 接收发送丢包数
+1.3.6.1.2.1.2.2.1.19 ifOutDiscards 接口发送丢包数
 
 1.3.6.1.2.1.31.1.1.1.18 ifdescription(ifAlias) 接口描述
 
