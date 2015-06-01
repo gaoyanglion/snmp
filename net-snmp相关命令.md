@@ -47,7 +47,7 @@ snmpwalk -v 3 -u admin -l authNoPriv -a MD5 -A 123@abc -x DES -X 123@abc 192.168
 
 如何抓取设备所有snmp数据？
 
-snmpwalk [options] 1
+snmpwalk [options] 1.3.6
 
 
 
