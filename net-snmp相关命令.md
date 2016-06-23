@@ -60,6 +60,6 @@ snmpwalk [options] 1.3.6.1
 
 # snmpbulkwalk
 
-使用SNMP GETBULK来获取数据，比snmpwalk效率高，不过，v1下无法使用
+使用snmpbulkwalk来获取数据，比snmpwalk效率高，不过，v1下无法使用
 
 语法同snmpwalk
