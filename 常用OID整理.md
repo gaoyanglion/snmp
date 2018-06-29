@@ -110,3 +110,9 @@
 
 1.3.6.1.2.1.17.7.1.4.3.1.1 vlan名称
 
+#OSPF邻居表
+1.3.6.1.2.1.14.10.1.1 邻居的IP地址
+1.3.6.1.2.1.14.10.1.3 ospfNbrRtrId,uniquely identifying the neighboring router in the autonomous system
+1.3.6.1.2.1.14.10.1.6  	The state of the relationship with the neighbor. The states are: down (1) attempt (2) init (3)    twoWay(4)  exchangeStart (5)   exchange (6)  loading (7)  full (8)
+
+
