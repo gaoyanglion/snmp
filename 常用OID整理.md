@@ -1,4 +1,4 @@
-#common
+# common
 
 1.3.6.1.2.1.1.2 sysObjectID 设备systemoid
 
@@ -74,11 +74,11 @@
 
 1.3.6.1.2.1.31.1.1.1.5 ifOutBroadcastPkts 接口发送广播包数
 
-#host
+# host
 
 1.3.6.1.2.1.25.3.3.1.2 cpu利用率
 
-#FDB
+# FDB
 
 1.3.6.1.2.1.17.4.3.1.1  FdbAddress
 
@@ -86,11 +86,11 @@
 
 1.3.6.1.2.1.17.4.3.1.3 FdbStatus
 
-#ARP
+# ARP
 
 1.3.6.1.2.1.4.22.1   
 
-#tcpConnTable（可得到类似“netstat -an -p tcp”命令结果）
+# tcpConnTable（可得到类似“netstat -an -p tcp”命令结果）
 
 1.3.6.1.2.1.6.13.1.1 连接状态（侦听，关闭等）
 
@@ -102,19 +102,19 @@
 
 1.3.6.1.2.1.6.13.1.5 远程端口
 
-#udpEntry（可得到类似“netstat -an -p udp”命令结果）
+# udpEntry（可得到类似“netstat -an -p udp”命令结果）
 
 1.3.6.1.2.1.7.5.1.1 本地地址
 
 1.3.6.1.2.1.7.5.1.2 本地端口
 
-#vlan（待验证）
+# vlan（待验证）
 
 1.3.6.1.2.1.17.7.1.4.2.1.6 vlan状态
 
 1.3.6.1.2.1.17.7.1.4.3.1.1 vlan名称
 
-#OSPF邻居表
+# OSPF邻居表
 
 1.3.6.1.2.1.14.10.1.1 邻居的IP地址
 
