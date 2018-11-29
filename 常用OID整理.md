@@ -122,5 +122,10 @@
 
 1.3.6.1.2.1.14.10.1.6  	The state of the relationship with the neighbor. The states are: down (1) attempt (2) init (3)      twoWay(4)  exchangeStart (5)   exchange (6)  loading (7)  full (8)
 
+# fdb相关
+
+dbridge:1.3.6.1.2.1.17.4.3.1
+qbridge:1.3.6.1.2.1.17.7.1.2.2.1
+
 
 
