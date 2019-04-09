@@ -116,6 +116,8 @@
 
 http://www.oidview.com/mibs/0/Q-BRIDGE-MIB.html
 
+https://support.huawei.com/enterprise/zh/doc/DOC1000027337?section=j00y
+
 # OSPF邻居表
 
 1.3.6.1.2.1.14.10.1.1 邻居的IP地址
