@@ -114,6 +114,8 @@
 
 1.3.6.1.2.1.17.7.1.4.3.1.1 vlan名称
 
+http://www.oidview.com/mibs/0/Q-BRIDGE-MIB.html
+
 # OSPF邻居表
 
 1.3.6.1.2.1.14.10.1.1 邻居的IP地址
