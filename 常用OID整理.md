@@ -1,6 +1,6 @@
 # common
 
-1.3.6.1.2.1.1.2 sysObjectID 设备的systemoid，标识型号
+1.3.6.1.2.1.1.2 sysObjectID 设备的systemoid，标识型号。
 
 1.3.6.1.2.1.1.3 sysUpTime 设备运行时间
 
